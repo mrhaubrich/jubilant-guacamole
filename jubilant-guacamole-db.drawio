@@ -1,14 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2021-11-08T19:19:57.485Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="dJh3EIc5DDSOyOaNcsMr" version="15.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-08T19:21:00.348Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="rkgIRycQD3pTCsKR3thw" version="15.7.0" type="github">
   <diagram name="Page-1" id="efa7a0a1-bf9b-a30e-e6df-94a7791c09e9">
-    <mxGraphModel dx="868" dy="454" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="#E6D0DE" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="454" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#E6D0DE" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="20" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;strong&gt;MERCADOS&lt;/strong&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;IDMERCADO&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;NOME&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;DESCRICAO&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;CRIADOEM&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;ATUALIZADOEM&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;HABILITADO&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;CNPJ&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;strokeColor=#003366;shadow=1;fillColor=#D4E1F5;fontColor=#003366" parent="1" vertex="1">
-          <mxGeometry x="320" y="50" width="160" height="132.5" as="geometry" />
+          <mxGeometry x="320" y="86.25" width="160" height="132.5" as="geometry" />
         </mxCell>
         <mxCell id="21" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;b&gt;PRODUTOS&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;IDPRODUTO&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;IDMERCADO&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;NOME&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;DESCRICAO&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;VALIDADE&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;ADICIONADOEM&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;ATUALIZADOEM&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;HABILITADO&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;VALOR&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;QUANTIDADE&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;strokeColor=#003366;shadow=1;fillColor=#D4E1F5;fontColor=#003366" parent="1" vertex="1">
-          <mxGeometry x="630" y="23.75" width="160" height="185" as="geometry" />
+          <mxGeometry x="630" y="60" width="160" height="185" as="geometry" />
         </mxCell>
         <mxCell id="GT8LUFrGEINmKve7cFLD-122" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;entryX=0.456;entryY=0.995;entryDx=0;entryDy=0;entryPerimeter=0;labelBorderColor=default;fontColor=#003366;startArrow=diamondThin;startFill=1;verticalAlign=bottom;align=left;endSize=12;startSize=14;endArrow=open;endFill=0;" parent="1" source="24" target="21" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -24,12 +24,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="24" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;strong&gt;NFES&lt;/strong&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;IDNFE&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;IDMERCADO&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;IDPRODUTOS&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;DATA&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;VALOR&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;DESCONTO&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;TOTAL&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;IMPOSTOS&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;strokeColor=#003366;shadow=1;fillColor=#D4E1F5;fontColor=#003366" parent="1" vertex="1">
-          <mxGeometry x="320.0000000000002" y="320.00000000000057" width="160" height="150" as="geometry" />
+          <mxGeometry x="320.0000000000002" y="356.25000000000057" width="160" height="150" as="geometry" />
         </mxCell>
         <mxCell id="87" value="" style="endArrow=open;startArrow=diamondThin;startFill=1;edgeStyle=orthogonalEdgeStyle;shadow=0;sketch=0;endSize=12;startSize=14;" parent="1" source="24" target="20" edge="1">
-          <mxGeometry x="629.3599999999999" y="228.75" as="geometry">
-            <mxPoint x="789.3599999999999" y="228.75" as="sourcePoint" />
-            <mxPoint x="629.3599999999999" y="228.75" as="targetPoint" />
+          <mxGeometry x="629.3599999999999" y="265" as="geometry">
+            <mxPoint x="789.3599999999999" y="265" as="sourcePoint" />
+            <mxPoint x="629.3599999999999" y="265" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="88" value=" n " style="resizable=0;align=left;verticalAlign=top;labelBackgroundColor=default;fontSize=10;strokeColor=#003366;shadow=1;fillColor=#D4E1F5;fontColor=#003366;labelBorderColor=default;" parent="87" connectable="0" vertex="1">
@@ -44,8 +44,8 @@
         </mxCell>
         <mxCell id="103" value=" 1 " style="endArrow=open;endSize=12;startArrow=diamondThin;startSize=14;startFill=1;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=bottom;labelBorderColor=default;" parent="1" source="21" target="20" edge="1">
           <mxGeometry x="-0.8232" y="27" relative="1" as="geometry">
-            <mxPoint x="190" y="538.75" as="sourcePoint" />
-            <mxPoint x="350" y="538.75" as="targetPoint" />
+            <mxPoint x="190" y="575" as="sourcePoint" />
+            <mxPoint x="350" y="575" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -68,19 +68,22 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="GT8LUFrGEINmKve7cFLD-116" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;b&gt;COMPRA&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;IDCOMPRA&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;IDNFE&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;DESCRICAO&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;span&gt;DATA&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;strokeColor=#003366;shadow=1;fillColor=#D4E1F5;fontColor=#003366" parent="1" vertex="1">
-          <mxGeometry x="10" y="350" width="160" height="90" as="geometry" />
+          <mxGeometry x="10" y="386.25" width="160" height="90" as="geometry" />
         </mxCell>
         <mxCell id="yjY0CTvoYEkaF2KikqQK-103" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;Precisa de uma&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="180" y="340" width="130" height="20" as="geometry" />
+          <mxGeometry x="180" y="376.25" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="yjY0CTvoYEkaF2KikqQK-104" value="&lt;b&gt;Tem um&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="550" y="400" width="70" height="20" as="geometry" />
+          <mxGeometry x="550" y="436.25" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="yjY0CTvoYEkaF2KikqQK-105" value="&lt;b&gt;Vem de um&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="510" y="70" width="90" height="20" as="geometry" />
+          <mxGeometry x="510" y="106.25" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="yjY0CTvoYEkaF2KikqQK-106" value="&lt;b&gt;Precisa de um&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="280" y="230" width="120" height="20" as="geometry" />
+          <mxGeometry x="280" y="266.25" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yjY0CTvoYEkaF2KikqQK-107" value="&lt;font style=&quot;font-size: 60px&quot;&gt;Banco de Dados&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="160" y="20" width="460" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
